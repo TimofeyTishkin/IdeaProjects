@@ -1,0 +1,3 @@
+[submodule "AddingDigits"]
+	path = AddingDigits
+	url = https://github.com/TimofeyTishkin/AddingDigits.git
