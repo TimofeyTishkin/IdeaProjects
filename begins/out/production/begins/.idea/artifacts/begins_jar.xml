@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="begins:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/begins_jar</output-path>
+    <root id="root">
+      <element id="archive" name="begins.jar">
+        <element id="module-output" name="begins" />
+      </element>
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+    </root>
+  </artifact>
+</component>
